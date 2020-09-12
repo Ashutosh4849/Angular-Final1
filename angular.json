@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ashutosh"
+    }
+  },
+  "defaultProject": "Ashutosh",
+  "cli": {
+    "analytics": false
+  }
 }
